@@ -1,4 +1,5 @@
-#Alert Status Workflow
+#Alert Status Workflow#
+
 Introduction
 This document addresses the alerts as follow up workflows to status responses based on customized business rules. For a particular response or condition, an alert is raised. An alert is designed to attract your attention to unusual or unwanted issues so that you are aware of potential problems as soon as possible. Then, the cause of the issue can be investigated, and hopefully, resolved. 
 
