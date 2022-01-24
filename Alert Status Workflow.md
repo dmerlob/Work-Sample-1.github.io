@@ -1,14 +1,19 @@
-#Alert Status Workflow#
+# Alert Status Workflow
 
-Introduction
+    Introduction
+   
 This document addresses the alerts as follow up workflows to status responses based on customized business rules. For a particular response or condition, an alert is raised. An alert is designed to attract your attention to unusual or unwanted issues so that you are aware of potential problems as soon as possible. Then, the cause of the issue can be investigated, and hopefully, resolved. 
 
-Purpose of the Document
-This document provides detailed information on the different alert statuses and the requested behavior, and the setting up of an alert.
+>Purpose of the Document
+>>This document provides detailed information on the different alert statuses and the requested behavior, and the setting up of an alert.
 The description of this process is intended for implementers, administrators, consultants, or whoever feels the need to understand the alerting process to set up a notification in the system based on responses. 
 
-Terms and Definitions
-Term
+<ol>
+ <li>Terms and Definitions
+  <ol>
+   <li>Term</li>
+</ol>
+    
 Definition
 Alert
 Business rule based on a response or condition. For instance, response = A or response < B.
